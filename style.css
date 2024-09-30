@@ -1,0 +1,33 @@
+body {background-color: aquamarine;}
+
+.p1{text-align: center;
+}
+.p1 {border-style: double;
+    border-color: blue;
+    border-width: 5px;
+}
+.p1{margin-right: 40%;
+margin-left: 35%;
+padding-left: 0,5%;
+}
+
+#ima1 {margin-left: 27%;
+    width: 40%;
+}
+
+#ima1 {border-style: double;
+border-color: rgb(203, 18, 240);
+border-width: 5px;
+}
+
+h1{border-style: double;
+    border-color: rgb(29, 25, 223);
+    border-width: 5px;
+}
+
+H2 {border-style: double;
+border-color: rgb(209, 28, 28);
+border-width: 5px;
+}
+
+\
